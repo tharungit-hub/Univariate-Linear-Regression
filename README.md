@@ -47,7 +47,7 @@ Y_pred = m*X + c
 #Predict the output
 print (Y_pred)
 ```
-## Sample Input and Output
+## Output
 ![inp](./input.jpg)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
